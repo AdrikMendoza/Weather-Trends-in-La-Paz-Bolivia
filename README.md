@@ -9,3 +9,6 @@ The goal of this project is to explore and analyze the weather trends in La Paz 
 
 # REFERENCES
 https://www.dallasfed.org/research/basics/moving.aspx
+
+#Click on the link below to see an interactive visualization.
+https://public.tableau.com/app/profile/aldair.mendoza/viz/TemperatureGlobalChange1743to2013/Story1
